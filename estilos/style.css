@@ -51,8 +51,9 @@ iframe{
 }
 
 #rede-social{
-  text-align: right;
-  padding: 40px;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
 }
 
 #rede-social img:hover{
